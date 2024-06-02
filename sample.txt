@@ -1,0 +1,3 @@
+Sample push.git smv subdir subdir2
+$ git rm --cached subdir
+$ 
